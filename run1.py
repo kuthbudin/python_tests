@@ -7,3 +7,4 @@ import arith1
 print(arith1.add(10,5))
 print(arith1.add(10,5))
 print(arith1.add(10,5))
+print(arith1.add(10,5))
